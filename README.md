@@ -1,4 +1,4 @@
-# PYTHON-SIMPLES-PROJETO
+# PYTHON-FUNDAMENTOS
 Desenvolvimento com a linguagem Python
 
 Curso de Python
