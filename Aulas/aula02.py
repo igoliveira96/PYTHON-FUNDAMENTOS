@@ -8,7 +8,6 @@ print('A soma entre {} e {} é {}'.format(numa, numb, soma))
 """
 
 #Tipos primitivos: int float bool str
-
 num = input('Digite algo: ')
 print(num.isnumeric())
 print(num.isalpha())
