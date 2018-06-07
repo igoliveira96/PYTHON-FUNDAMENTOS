@@ -1,6 +1,3 @@
-# PYTHON-FUNDAMENTOS
-Desenvolvimento com a linguagem Python
-
-Curso de Python
+# PYTHON FUNDAMENTOS
 
 Repositório reservado ao curso de fundamentos de Python
